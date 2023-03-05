@@ -1,0 +1,15 @@
+.container_box{
+    width: 40%;
+    margin: 0 auto;
+    border: 1px solid rgb(235, 225, 225);
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.form_content{
+    width: 60%;
+    margin: 0 auto;
+}
+.user_detail{
+    border-top: 1px solid rgb(235, 225, 225);
+    padding-top: 30px;
+}
